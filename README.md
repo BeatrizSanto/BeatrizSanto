@@ -1,7 +1,6 @@
 ### Olá! eu sou a Beatriz Santos 👋
 
 - 💻 Atualmente estudando Front-end ,Java e MySQL
-- 🌱 
 - 🎓 Bacharel em Design  Gráfico
 - 📫 Contate-me no email: beatriz.santos204@gmail.com
 - 😄 Pronouns: Ela/dela
