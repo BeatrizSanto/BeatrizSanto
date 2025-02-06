@@ -91,6 +91,12 @@ Nos últimos três anos, venho aplicando esses conhecimentos na área de desenvo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+  align="center" 
+  alt="Csharp" 
+  width="30" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+  />
 
 <br/>
 <br/>
