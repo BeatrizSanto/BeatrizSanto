@@ -1,24 +1,7 @@
-### Olá! eu sou a Beatriz Santos 👋
 
-- 💻 Atualmente estudando Front-end ,Java e MySQL
-- 🎓 Bacharel em Design  Gráfico
-- 📫 Contate-me no email: beatriz.santos204@gmail.com
-- 😄 Pronouns: Ela/dela
-- 📍 Taboão da Serra- SP
-
-
-<div>
-  <a href="https://github.com/BeatrizSanto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizSanto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSanto&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-
-<div>
-   <a href = "mailto:contatobeatriz.santos204@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-   <a href="https://www.linkedin.com/in/beatriz-santos-01372824/ "target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white                                                           
- 
-  </div>
+## ⭐️ Sobre mim
+Sou estudante técnica em Desenvolvimento de Sistemas e formada em Design Gráfico. Atuei por dois anos e meio na área de design, criando soluções visuais estratégicas. Em 2021, decido expandir meus horizontes para o desenvolvimento full stack, aprofundando meus conhecimentos em programação e desenvolvimento de sistemas por meio do bootcamp da Generation  e do curso Vai na Web.
+Nos últimos três anos, venho aplicando esses conhecimentos na área de desenvolvimento e análise de dados, contribuindo para soluções tecnológicas estratégicas. Atualmente, estou ampliando minha expertise com estudos em Cloud AWS pela Escola da Nuvem. Estou aberta para novos desafios e oportunidades.
 
   
   
